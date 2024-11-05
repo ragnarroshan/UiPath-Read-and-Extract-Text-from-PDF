@@ -6,7 +6,7 @@ To automate the process of extracting text from a PDF file and saving the extrac
 
 ## Equipment Required:
 
-UiPath Studio – A tool for automating tasks and workflows.<br>
+UiPath Studio – a tool for automating tasks and workflows.<br>
 PDF File – The file from which the text will be extracted.<br>
 Text File – The file where the extracted text will be saved.<br>
 Computer with the following configuration:<br>
